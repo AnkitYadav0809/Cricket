@@ -1,0 +1,81 @@
+const data = [
+	{
+		id: 1,
+		name: "Ms Dhoni",
+		info: "MS Dhoni’s leadership was instrumental in India’s 2011 World Cup victory. In the final, he scored a crucial 91 runs off 79 deliveries, steering India to victory. In 2017, he passed the captaincy to Virat Kohli after leading the team for a decade. Dhoni retired from international cricket in 2020 but remains active in the IPL, where he captains the Chennai Super Kings, who have clinched five titles under his leadership.",
+		image: "https://cdn.thecodehelp.in/Agra.jpeg",
+		price: "35,758",
+	},
+	{
+		id: 2,
+		name: "Virat Kohli",
+		info: `In his debut World Cup, Kohli scored 282 runs in nine matches, including a century and a half-century. Today, Kohli is hailed as one of the best players in international cricket. He captained the Indian cricket team from 2017 to 2022.`,
+		image: "https://cdn.thecodehelp.in/Jaipur.jpeg",
+		price: "82,560",
+	},
+	{
+		id: 3,
+		name: "Gautam Gambhir",
+		info: "Gautam Gambhir accumulated 393 runs in 9 matches in the 2011 World Cup. His match-winning knock of 97 runs in the final against Sri Lanka will forever be remembered as a defining moment in Indian cricket history.",
+		image: "https://cdn.thecodehelp.in/Goa.jpeg",
+		price: "29,695",
+	},
+	{
+		id: 4,
+		name: "Sachin Tendulkar",
+		info: "Sachin Tendulkar scored 482 runs in 9 games at a strike rate of 91.98 and played a pivotal role in guiding India to victory after a 28-year wait.Following his retirement from international cricket in 2013, Tendulkar continued to be involved in cricket. Currently, he is the mentor for the Mumbai Indians in the IPL and also plays for the India Legends in the Road Safety World Series.",
+		image: "https://cdn.thecodehelp.in/Varanasi.jpeg",
+		price: "31,095",
+	},
+	{
+		id: 5,
+		name: "Virendra Sehwag",
+		info: "In the 2011 Cricket ODI World Cup, Virender Sehwag’s explosive batting style was on full display as he amassed 380 runs in just 8 matches at a strike rate of 122.58. Since retiring from international cricket in 2015, Sehwag has transitioned into various roles within the cricketing world, including commentary and cricket analysis.",
+		image: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
+		price: "78,595",
+	},
+	{
+		id: 6,
+		name: "Suresh Raina",
+		info: "Suresh Raina played a crucial role in India’s 2011 World Cup victory, notably shining in the quarter-final and semi-final matches. He contributed a vital 34-run innings against Australia and an unbeaten 36 runs against Pakistan. Raina retired from international cricket in July 2018 along with MS Dhoni. Currently, he serves as a cricket expert and commentator in the IPL.",
+		image: "https://cdn.thecodehelp.in/Jaisalmer.jpeg",
+		price: "68,595",
+	},
+	{
+		id: 7,
+		name: "Yuvraj Singh",
+		info: "In the 2011 World Cup, Yuvraj Singh was named the Player of the Tournament for scoring 362 runs and taking 15 wickets in 9 matches. In June 2019, he announced retirement from international cricket, post which he has been seen playing for India Legends in the Road Safety World Series.",
+		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+		price: "68,595",
+	},
+    {
+		id: 8,
+		name: "Zaheer Khan",
+		info: "Zaheer Khan picked up 21 wickets in nine matches with an economy of 4.83, becoming the joint-leading wicket-taker alongside Pakistan’s Shahid Afridi. He retired from international cricket in October 2015 and has since been associated with the IPL franchise Mumbai Indians, first as their Director of Cricket Operations and later as the Global Head of Cricket Development.",
+		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+		price: "68,595",
+	},
+    {
+		id: 9,
+		name: "Harbhajan Singh",
+		info: "Harbhajan Singh picked up nine wickets in nine matches at an economy of 4.48 in the 2011 World Cup. After 23 years in international cricket, the offspinner announced retirement in 2021. Since retiring from cricket, he has been actively involved in commentary and analysis.",
+		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+		price: "68,595",
+	},
+    {
+		id: 10,
+		name: "Munaf Patel",
+		info: "Munaf Patel picked up 11 wickets in eight matches with an economy of 5.36. His economical spells in the semi-final and final matches were instrumental in India clinching the title. Patel retired from international cricket in November 2018, concluding his career with 125 wickets in 86 matches. He currently plays in the World Road Safety Series.",
+		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+		price: "68,595",
+	},
+    {
+		id: 11,
+		name: "S Sreesanth ",
+		info: "The performances of S Sreesanth in the 2011 World Cup were ordinary. He retired from all forms of cricket in March 2022 and contested but lost in the Kerala Assembly election in May 2022. He also participated in the US Masters T10 tournament, where he took nine wickets in seven innings for the Morrisville Unity team.",
+		image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+		price: "68,595",
+	},
+];
+
+export default data;
