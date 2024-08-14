@@ -12,10 +12,10 @@ const Card = ({ id, image, info, name}) => {
     return (
         <div className="card">
             <img src={image} className="image" alt="img"/>
-            <div className="tourInfo">
-                <div className="tourDetails">
+            <div className="playerInfo">
+                <div className="playerDetails">
                    
-                    <h4 className="tourName">{name}</h4>
+                    <h4 className="playerName">{name}</h4>
                 </div>
                 <div className="description">
                     {description}

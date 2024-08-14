@@ -52,16 +52,16 @@ body{
     object-fit: cover;
 }
 
-.tourInfo{
+.playerInfo{
     margin: 20px 5px;
 }
 
-.tourPrice{
+.playerPrice{
     color: #1faa59;
     font-size: 1.3rem;
 }
 
-.tourName{
+.playerName{
     font-size: 1.5rem;
 }
 

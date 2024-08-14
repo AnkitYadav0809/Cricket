@@ -11,8 +11,8 @@ const Players = (props) => {
             </div>
             <div className='cards'>
                 {
-                    props.tours.map((tour) => {
-                        return <Card {...tour} key={tour.id}  />;
+                    props.players.map((player) => {
+                        return <Card {...player} key={player.id}  />;
                     })
                 }
             </div>

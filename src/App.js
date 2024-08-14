@@ -4,13 +4,13 @@ import data from './data.js';
 import Players from "./Component/Players.js";
 
 const App = () => {
-  const [tours, setTours] = useState(data);
+  const [players, setPlayers] = useState(data);
   
   
 
   return (
     <div className="app">
-      <Players tours={tours}  />
+      <Players players={players}  />
     </div>
   )
 
