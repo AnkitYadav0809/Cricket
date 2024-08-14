@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './Card'
-const Tours = (props) => {
+const Players = (props) => {
 
     
 
@@ -20,4 +20,4 @@ const Tours = (props) => {
     )
 }
 
-export default Tours;
+export default Players;

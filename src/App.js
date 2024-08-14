@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import data from './data.js';
-import Tours from './Component/Tours.js';
+//import Playersrs from './Component/Players.js';
+import Players from "./Component/Players.js";
 
 const App = () => {
   const [tours, setTours] = useState(data);
@@ -9,7 +10,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <Tours tours={tours}  />
+      <Players tours={tours}  />
     </div>
   )
 
