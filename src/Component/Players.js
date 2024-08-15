@@ -7,7 +7,7 @@ const Players = (props) => {
     return (
         <div className='container'>
             <div>
-                <h2 className='title'>2011 WC TEAM</h2>
+                <h2 className='title'>2011 WC WINNING TEAM</h2>
             </div>
             <div className='cards'>
                 {
